@@ -10,7 +10,7 @@ El objetivo de este proyecto es aplicar todo lo aprendido en HTML, CSS, Astro y 
 
 ## 👁️ Vista previa del proyecto
 <img src="public/assets/preview.jpeg" width=1200>
-<img src="public/assets/preview.mobile.jpeg" width=300>
+<img src="public/assets/previewmobile.jpeg" width=300>
 
 
 ## 🛠️ Estructura del Proyecto
@@ -55,7 +55,7 @@ The goal of this project is to apply everything learned in HTML, CSS, Astro, and
 
 ## 👁️ Project Preview
 <img src="public/assets/preview.jpeg" width=1200>
-<img src="public/assets/preview.mobile.jpeg" width=300>
+<img src="public/assets/previewmobile.jpeg" width=300>
 
 ## 🛠️ Project Structure
 
