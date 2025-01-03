@@ -9,8 +9,8 @@ Maquetación de un header para un portfolio personal realizado con HTML, CSS, As
 El objetivo de este proyecto es aplicar todo lo aprendido en HTML, CSS, Astro y Tailwind
 
 ## 👁️ Vista previa del proyecto
-<img src="public/assets/previe.jpeg" width=1200>
-<img src="public/assets/previewmobi.jpeg" width=300>
+<img src="public/assets/preview.jpeg" width=1200>
+<img src="public/assets/previewmobile.jpeg" width=300>
 
 
 ## 🛠️ Estructura del Proyecto
@@ -54,8 +54,8 @@ Layout of a header for a personal portfolio made with HTML, CSS, Astro, and Tail
 The goal of this project is to apply everything learned in HTML, CSS, Astro, and Tailwind.
 
 ## 👁️ Project Preview
-<img src="public/assets/previw.jpeg" width=1200>
-<img src="public/assets/previewmoble.jpeg" width=300>
+<img src="public/assets/preview.jpeg" width=1200>
+<img src="public/assets/previewmobile.jpeg" width=300>
 
 ## 🛠️ Project Structure
 
