@@ -28,7 +28,7 @@ Podrás usar la página pinchando en el siguiente enlace gracias a Github Pages:
 
 1. Clona este repositorio:
    ```bash
-   [https://github.com/kaeedev/tesla-landing.git](https://github.com/kaeedev/Proyecto-9-Header-Personal-Portfolio.git)
+   https://github.com/kaeedev/Proyecto-10-Personal-Portfolio-2.git
 
 2. No requiere de instalación. Con la extensión live server o similares de VSCODE podrás ver el proyecto de manera local
 
@@ -70,7 +70,7 @@ You can access the page by clicking the following link, thanks to GitHub Pages:
 ## 🛠️ Installation and Execution
 Clone this repository:
   ```bash
-  [https://github.com/kaeedev/tesla-landing.git](https://github.com/kaeedev/Proyecto-9-Header-Personal-Portfolio.git)
+  https://github.com/kaeedev/Proyecto-10-Personal-Portfolio-2.git
   ```
 
 No installation is required. You can view the project locally using the Live Server extension or similar tools in VSCode.
