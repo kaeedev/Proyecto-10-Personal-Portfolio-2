@@ -1,0 +1,30 @@
+---
+import Logo from "./Logo.astro"
+---
+<header class="xl:flex xl:flex-row xl:justify-between xl:items-center p-10">
+    <nav class="">
+        <ul class="hidden xl:flex xl:flex-row xl:justify-between xl:items-center gap-x-12 ml-10 [&>li>a]:font-quattrocento [&>li>a]:text-[18px]">
+            <li><a class="hover:underline decoration-4 decoration-barra underline-offset-8 hover:animate-pulse" href="#">Home</a></li>
+            <li><a class="hover:underline decoration-4 decoration-barra underline-offset-8 hover:animate-pulse" href="#">Portfolio</a></li>
+            <li><a class="hover:underline decoration-4 decoration-barra underline-offset-8 hover:animate-pulse" href="#">Blog</a></li>
+            <li><a class="hover:underline decoration-4 decoration-barra underline-offset-8 hover:animate-pulse" href="#">About</a></li>
+        </ul>
+    </nav>
+
+    <div class="flex flex-row justify-between items-center ">
+        <Logo/>
+        <button class="xl:hidden text-white transition-colors duration-500 font-bold  p-3 bg-principal hover:bg-principalhover rounded ease-in-out hover:animate-tada ">
+            <p class="landing-section text-sm">Menú</p>
+        </button>
+    </div>
+
+    <nav>
+        <ul class="hidden xl:flex xl:flex-row xl:justify-between xl:items-center gap-x-12 mr-40">
+            <li class="hover:animate-tada"><a href="#"><img class="animate-tada" src="/Proyecto-10-Personal-Portfolio-2/public/assets/instagram.svg" alt="Logo de Instagram"></a></li>
+            <li class="hover:animate-tada"><a href="#"><img class="animate-tada" src="/Proyecto-10-Personal-Portfolio-2/public/assets/facebook.svg" alt="Logo de Facebook"></a></li>
+            <li class="hover:animate-tada"><a href="#"><img class="animate-tada" src="/Proyecto-10-Personal-Portfolio-2/public/assets/Twitter.svg" alt="Logo de Twitter"></a></li>
+            <li class="hover:animate-tada"><a href="#"><img class="animate-tada" src="/Proyecto-10-Personal-Portfolio-2/public/assets/Linkedin.svg" alt="Logo de Linkedin"></a></li>
+        </ul>
+    </nav>
+
+</header>
